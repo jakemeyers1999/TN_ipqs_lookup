@@ -29,6 +29,7 @@ definitions of IPQS results can be found here: https://www.ipqualityscore.com/do
 –
 
 ## Setup (First Time)
+*Unzip to documents folder*
 1. Open Terminal.
 2. Navigate to the folder:
    ```
